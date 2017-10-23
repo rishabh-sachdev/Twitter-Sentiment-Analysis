@@ -15,4 +15,4 @@ I've used this playlist by sentdex to learn nltk.
 https://www.youtube.com/watch?v=FLZvOKSCkxY&index=1&list=ac
 
 
-
+please give ur suggestions and/or feedback
