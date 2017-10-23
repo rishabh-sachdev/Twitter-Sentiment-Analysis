@@ -7,7 +7,7 @@ https://apps.twitter.com/app/14307319/
 http://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
 
 this is very simple and rough version of our project... 
-
+Everything is inside railway_feedback.zip file. rest is useless.
 1. I've extracted around 20k+ tweets from using tweepy. They are saved in twitDB1.csv file in the data folder.
 2. saved the text of those tweets in the tweetText.csv file
 3. pre_processed.py then pre_processes them (removing all @,links etc). saved in pre_processed.csv
